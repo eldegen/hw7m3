@@ -9,4 +9,12 @@
     <string name="september_1">September 1</string>
     <string name="_1h">1h</string>
     <string name="following">Following</string>
+    <string name="nickname_profile">jacob_w</string>
+    <string name="posts_count">54</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="followers_count">834</string>
+    <string name="following_count">162</string>
+    <string name="jacob_west">Jacob West</string>
+    <string name="edit_profile">Edit Profile</string>
 </resources>
